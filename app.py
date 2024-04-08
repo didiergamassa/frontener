@@ -1,10 +1,4 @@
 import streamlit as st
-import requests
-import pandas as pd
-import matplotlib.pyplot as plt
-
-import datetime
-st.set_option('deprecation.showPyplotGlobalUse', False)
 
 # Replace with your Heroku app URL
 
